@@ -1,0 +1,3 @@
+# KOH - Kohonen Network
+
+This project involved implementing Kohonen networks with rectangular and hexagonal neuron topologies for clustering and visualizing high-dimensional data. The effects of grid size, neighborhood width, and two neighborhood functions - Gaussian and Mexican hat - were investigated. The implemented algorithms were initially evaluated on simple synthetic spatial datasets and subsequently tested on more complex, real-world datasets.

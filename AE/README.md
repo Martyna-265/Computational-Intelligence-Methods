@@ -1,0 +1,3 @@
+# AE - Evolutionary Algorithm
+
+This project involved implementing an evolutionary algorithm with various selection and mutation methods. The algorithm was applied to function maximization, the cutting stock problem, and weight optimization in a multilayer perceptron (MLP). Its effectiveness in solving these problems was evaluated, and the impact of different parameter settings on its performance was investigated.
